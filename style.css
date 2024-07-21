@@ -25,6 +25,15 @@ body {
     color: black; /* 确保文字颜色为黑色 */
 }
 
+.light-red-background {
+    background-color: #ffcccc;
+    color: black;
+}
+.light-yellow-background {
+    background-color: #ffffcc;
+    color: black;
+}
+
 
 p a, table.affiliations a, table.menu a {
 	border-bottom: solid 1px #ddd;
