@@ -12,6 +12,20 @@ body {
 	line-height: 1.5em;
 }
 
+
+.bold {
+    font-weight: bold;
+}
+.red-background {
+    background-color: red;
+    color: black; /* 确保文字颜色为黑色 */
+}
+.yellow-background {
+    background-color: yellow;
+    color: black; /* 确保文字颜色为黑色 */
+}
+
+
 p a, table.affiliations a, table.menu a {
 	border-bottom: solid 1px #ddd;
 	color: inherit;
